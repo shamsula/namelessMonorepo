@@ -1,0 +1,66 @@
+// Colors
+$color-new-black: #1c1c1c;
+$color-dark-grey: #363636;
+
+$color-blue-sapphire: hsl(197, 93%, 29%);
+$color-light-blue-sapphire: hsl(197, 93%, 42%);
+$color-blue-sapphire-opacity: hsla(197, 93%, 29%, 0.5);
+$color-light-blue-sapphire-opacity: hsla(197, 93%, 42%, 0.5);
+$color-metallic-seaweed: hsl(187, 97%, 29%);
+$color-persian-green: hsl(174, 100%, 33%);
+$color-mountain-meadow: hsl(167, 98%, 39%);
+$color-pale-spring-bud: hsl(63, 69%, 85%);
+
+$color-prussian-blue: hsl(215, 50%, 23%);
+$color-powder-blue: hsl(182, 43%, 76%);
+$color-honey-dew: hsl(105, 55%, 96%);
+
+$color-rose-madder: hsl(353, 81%, 51%);
+$color-orange-peel: hsl(35, 100%, 55%);
+$color-light-orange-peel: hsl(35, 100%, 60%);
+
+$color-platinum: hsl(90, 4%, 90%);
+$color-quick-silver: hsl(0, 2%, 64%);
+$color-rocket-metallic: hsl(352, 6%, 49%);
+
+$color-thistle: #e0bbe4;
+$color-lavender-purple: #957dad;
+$color-pastel-violet: #d291bc;
+$color-cotton-candy: #fec8d8;
+$color-lumber: #ffdfd3;
+
+$color-corn: #f7ef64;
+$color-honedew: #f3faf1;
+$color-light-moss-green-2: #b4d7a2;
+
+$color-crystal: #a3d6d4;
+$color-champagne: #f1e9cb;
+$color-light-moss-green: #c2d5a7;
+$color-cadet-blue: #b0abca;
+$color-kobi: #e2a9be;
+$color-desert-sand: #e1c6ac;
+
+// Media Queries
+$media-desktop: "(min-width: 922px)";
+$media-tablet: "(min-width: 768px)";
+$media-phone: "(min-width: 576px)";
+
+// Box shadows
+$box-shadow-1: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+$box-shadow-2: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+$box-shadow-3: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+$box-shadow-4: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+$box-shadow-5: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+
+// Text shadows
+$text-shadow-1: 1px 1px 0.4px rgba(0, 0, 0, 0.3);
+$text-shadow-2: -2px 1px 1.2px rgba(0, 0, 0, 0.4);
+$text-shadow-3: 0.06ex 0 #a50610, -0.06ex 0 #0c2aa8, 0 0.14ex 0 rgba(0, 0, 0, 0.8), 0.12ex 0 0 rgba(0, 0, 0, 0.8);
+
+// Linear Gradient
+$linear-gradient-background: linear-gradient(
+  309deg,
+  rgba(5, 102, 141, 1) 0%,
+  rgba(2, 128, 144, 1) 32%,
+  rgba(2, 195, 154, 1) 100%
+);
