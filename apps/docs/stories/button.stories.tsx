@@ -30,8 +30,8 @@ export const Primary: Story = {
   ),
   name: "Primary Button",
   args: {
-    children: "Hello", // Default text for the button
     type: "button",
+    label: "hello",
     colour: "blue", // You can change this color from Storybook's controls
   },
 };
